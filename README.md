@@ -1,5 +1,7 @@
 # Golang SQS Consumer
 
+golang_sqs is a golang module that used to consume AWS SQS queue through channel
+
 ## Install
 
 ``` go
